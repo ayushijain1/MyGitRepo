@@ -1,2 +1,3 @@
-#this is first commit in git reposatory
+# this is first commit in git reposatory
 # still dont have any clue what is going on.
+# Even i don't have any clue.
