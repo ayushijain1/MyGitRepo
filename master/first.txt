@@ -1,0 +1,2 @@
+#this is first commit in git reposatory
+# still dont have any clue what is going on.
